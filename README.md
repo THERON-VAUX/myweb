@@ -1,21 +1,38 @@
-# Aurora Angel Separate version
-描述：
-> 相比完整一体的代码要稍微精简一些，但同时bug可能也更多一点，主要适合开发，不适合体验
-> 如果想要体验更好的网页建议选择完整HTML文本
+<h1 align="center">Aurora Angel</h1>
 
-一个对比：
-1. Master
-* 结构分类完整
-* 拓展性极高
-* 更新迅速
-* Bug较多
-* 优化不佳
-2. HTML文本
-* 集成度极高
-* 有一点优化
-* 即开即体验
-* Bug较少
-* 更新缓慢
-* 拓展性低
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Stars](https://img.shields.io/github/stars/THEARCWORLD/Aurora-Angel?style=social)](https://github.com/THEARCWORLD/Aurora-Angel/stargazers)
+<img width="1383" height="744" alt="image" src="https://github.com/user-attachments/assets/bf7ac703-0b29-4db4-a90d-ee0f8ccf5e97" />
 
+更多详情见[wiki](https://github.com/THEARCWORLD/Aurora-Angel/wiki)
+
+### 语言
+
+中文 | [English](./README.en.md)
+
+----
+
+### 介绍
+
+>Aurora Angel
+
+>当前最新版本：26.1.0.0104
+
+> 这个网页项目仅提供最初始的前端界面代码，此代码内留有‘功能库’可留做后端功能拓展，该前端代码并不完善，望以后多多理解，详情可见本项目wiki！！！
+> 可复刻仓库，以提交PR
+
+----
+
+### 安装教程
+
+你需要一个**浏览器**，然后获取构建代码；如果想使用Master，可以在电脑浏览器上打开，或者使用**编程器**
+
+* [云盘](https://www.123865.com/s/YNr5Vv-EBtbd)
+* [群](https://qm.qq.com/q/E8br7S2R22)
+
+---
+
+声明：FireTide和Angelcrystal已经停止维护，你可以向开发者提及该项目
+
+欢迎再来！您的 ⭐**Star** 是我更新的动力~
 # By THEARCWORLD
